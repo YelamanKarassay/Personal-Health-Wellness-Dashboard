@@ -12,11 +12,11 @@ markdown_data = """
 | [[2025-01-09]] | Sunny                      | 82 kg  | 6               | 8               | None              | 7hr6m/<br>3.7hr  | Subway:Egg&Mayo/<br>Japanese Curry/<br>McDonald<br> | 50-150  |
 | [[2025-01-10]] | Sunny                      | 82kg   | 7               | 3               | None              | 6hr19m/<br>4.9hr | Subway:Egg&Mayo/<br>Baked Curry/Pasta<br>           | 51-100  |
 | [[2025-01-11]] | Sunny                      | 82kg   | 8               | 9               | None              | 9hr12m/<br>3.1hr | Skip/<br>KFC/<br>Indian food                        | 51-100  |
-| [[2025-01-12]] | Sunny                      | 83kg   | 10              | 9               | None              | 7hr/3.1hr        | Skip/<br>KFC/<br>Boiled Noodle                      | 51-100  |
-| [[2025-01-13]] | Sunny                      | 83kg   | 6               | 7               | None              | 7hr/<br>3.1hr    | Skip/<br>Japanese Beef/<br>Subway:Roast Beef        | 51-150  |
-| [[2025-01-14]] | Cloudy                     | 83kg   | 7               | 9               | None              | 8hr36m/<br>1.4hr | Skip/<br>Udon/<br>Ramen                             | 51-100  |
+| [[2025-01-12]] | Sunny                      | 82kg   | 10              | 9               | None              | 7hr/3.1hr        | Skip/<br>KFC/<br>Boiled Noodle                      | 51-100  |
+| [[2025-01-13]] | Sunny                      | 82kg   | 6               | 7               | None              | 7hr/<br>3.1hr    | Skip/<br>Japanese Beef/<br>Subway:Roast Beef        | 51-150  |
+| [[2025-01-14]] | Cloudy                     | 82kg   | 7               | 9               | None              | 8hr36m/<br>1.4hr | Skip/<br>Udon/<br>Ramen                             | 51-100  |
 | [[2025-01-15]] | Sunny Periods              | 82kg   | 9               | 9               | None              | 7hr34m/<br>1.6hr | Skip/<br>Tamjai/<br>Snacks                          | 51-100  |
-| [[2025-01-16]] | Sunny                      | 82kg   | 8               | None            | None              | 8hr37m/<br>0.7hr | Subway:Egg&Mayo/<br>Pizza/<br>Snacks                | 101-150 |
+| [[2025-01-16]] | Sunny                      | 82kg   | 8               | 9               | None              | 8hr37m/<br>0.7hr | Subway:Egg&Mayo/<br>Pizza/<br>Snacks                | 101-150 |
 """
 
 # Use pandas.read_csv with StringIO to convert the Markdown table into a DataFrame
