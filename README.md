@@ -1,5 +1,7 @@
 # Personal Health & Wellness Dashboard
 
+Link: [Dashboard](https://daily-wellness-dashboard.streamlit.app/)
+
 A **Streamlit**-based dashboard for visualizing and analyzing personal daily data—weight, mood, meals, sleep, and more. This project uses **pandas**, **plotly**, **matplotlib**, **seaborn**, **scikit-learn**, and **wordcloud** to present insights about your health and daily habits.
 
 ## Table of Contents
