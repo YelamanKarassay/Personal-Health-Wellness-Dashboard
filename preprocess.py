@@ -17,6 +17,10 @@ markdown_data = """
 | [[2025-01-14]] | Cloudy                     | 82kg   | 7               | 9               | None              | 8hr36m/<br>1.4hr | Skip/<br>Udon/<br>Ramen                             | 51-100  |
 | [[2025-01-15]] | Sunny Periods              | 82kg   | 9               | 9               | None              | 7hr34m/<br>1.6hr | Skip/<br>Tamjai/<br>Snacks                          | 51-100  |
 | [[2025-01-16]] | Sunny                      | 82kg   | 8               | 9               | None              | 8hr37m/<br>0.7hr | Subway:Egg&Mayo/<br>Pizza/<br>Snacks                | 101-150 |
+| [[2025-01-17]] | Sunny                      | 82kg   | 9               | 9               | None              | 7hr38m/<br>1hr   | Subway:Egg&Mayo/<br>Pasta/Pizza<br>                 | 51-100  |
+| [[2025-01-18]] | Sunny                      | 81kg   | 7               | 8               | None              | 6hr20m/<br>2.6hr | Skip/KFC/Pasta<br>                                  | 101-150 |
+| [[2025-01-19]] | Sunny                      | 81kg   | 7               | 8               | None              | 7hr30m/<br>3.0hr | Skip/Burger/McDonald's                              | 101-150 |
+
 """
 
 # Use pandas.read_csv with StringIO to convert the Markdown table into a DataFrame

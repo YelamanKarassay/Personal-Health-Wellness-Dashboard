@@ -3,8 +3,11 @@ Date,Weather,Weight,Feeling Morning,Feeling Evening,Air,Breakfast,Lunch,Dinner,S
 2025-01-09,Sunny,82.0,6,8,100.0,Subway:Egg&Mayo,Japanese Curry,McDonald,,,7.1,3.7
 2025-01-10,Sunny,82.0,7,3,75.5,Subway:Egg&Mayo,Baked Curry,Pasta,,,6.3,4.9
 2025-01-11,Sunny,82.0,8,9,75.5,Skip,KFC,Indian food,,,9.2,3.1
-2025-01-12,Sunny,83.0,10,9,75.5,Skip,KFC,Boiled Noodle,,,7.0,3.1
-2025-01-13,Sunny,83.0,6,7,100.5,Skip,Japanese Beef,Subway:Roast Beef,,,7.0,3.1
-2025-01-14,Cloudy,83.0,7,9,75.5,Skip,Udon,Ramen,,,8.6,1.4
+2025-01-12,Sunny,82.0,10,9,75.5,Skip,KFC,Boiled Noodle,,,7.0,3.1
+2025-01-13,Sunny,82.0,6,7,100.5,Skip,Japanese Beef,Subway:Roast Beef,,,7.0,3.1
+2025-01-14,Cloudy,82.0,7,9,75.5,Skip,Udon,Ramen,,,8.6,1.4
 2025-01-15,Sunny Periods,82.0,9,9,75.5,Skip,Tamjai,Snacks,,,7.6,1.6
-2025-01-16,Sunny,82.0,8,,125.5,Subway:Egg&Mayo,Pizza,Snacks,,,8.6,0.7
+2025-01-16,Sunny,82.0,8,9,125.5,Subway:Egg&Mayo,Pizza,Snacks,,,8.6,0.7
+2025-01-17,Sunny,82.0,9,9,75.5,Subway:Egg&Mayo,Pasta,Pizza,,,7.6,1.0
+2025-01-18,Sunny,81.0,7,8,125.5,Skip,KFC,Pasta,,,6.3,2.6
+2025-01-19,Sunny,81.0,7,8,125.5,Skip,Burger,McDonald's,,,7.5,3.0
