@@ -10,4 +10,6 @@ Date,Weather,Weight,Feeling Morning,Feeling Evening,Air,Breakfast,Lunch,Dinner,S
 2025-01-16,Sunny,82.0,8,9,125.5,Subway:Egg&Mayo,Pizza,Snacks,,,8.6,0.7
 2025-01-17,Sunny,82.0,9,9,75.5,Subway:Egg&Mayo,Pasta,Pizza,,,7.6,1.0
 2025-01-18,Sunny,81.0,7,8,125.5,Skip,KFC,Pasta,,,6.3,2.6
-2025-01-19,Sunny,81.0,7,8,125.5,Skip,Burger,McDonald's,,,7.5,3.0
+2025-01-19,Sunny,81.0,7,8,125.5,Skip,Burger,McDonald,,,7.5,3.0
+2025-01-20,Sunny,81.0,6,6,100.5,Skip,Tamjai,McDonald,,,8.3,1.8
+2025-01-21,Cloudy,81.0,6,6,75.5,Skip,Baked Fish,Snacks,,,8.6,1.1

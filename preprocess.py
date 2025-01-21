@@ -12,14 +12,16 @@ markdown_data = """
 | [[2025-01-09]] | Sunny                      | 82 kg  | 6               | 8               | None              | 7hr6m/<br>3.7hr  | Subway:Egg&Mayo/<br>Japanese Curry/<br>McDonald<br> | 50-150  |
 | [[2025-01-10]] | Sunny                      | 82kg   | 7               | 3               | None              | 6hr19m/<br>4.9hr | Subway:Egg&Mayo/<br>Baked Curry/Pasta<br>           | 51-100  |
 | [[2025-01-11]] | Sunny                      | 82kg   | 8               | 9               | None              | 9hr12m/<br>3.1hr | Skip/<br>KFC/<br>Indian food                        | 51-100  |
-| [[2025-01-12]] | Sunny                      | 82kg   | 10              | 9               | None              | 7hr/3.1hr        | Skip/<br>KFC/<br>Boiled Noodle                      | 51-100  |
+| [[2025-01-12]] | Sunny                      | 82kg   | 10              | 9               | None              | 7hr/<br>3.1hr    | Skip/<br>KFC/<br>Boiled Noodle                      | 51-100  |
 | [[2025-01-13]] | Sunny                      | 82kg   | 6               | 7               | None              | 7hr/<br>3.1hr    | Skip/<br>Japanese Beef/<br>Subway:Roast Beef        | 51-150  |
 | [[2025-01-14]] | Cloudy                     | 82kg   | 7               | 9               | None              | 8hr36m/<br>1.4hr | Skip/<br>Udon/<br>Ramen                             | 51-100  |
 | [[2025-01-15]] | Sunny Periods              | 82kg   | 9               | 9               | None              | 7hr34m/<br>1.6hr | Skip/<br>Tamjai/<br>Snacks                          | 51-100  |
 | [[2025-01-16]] | Sunny                      | 82kg   | 8               | 9               | None              | 8hr37m/<br>0.7hr | Subway:Egg&Mayo/<br>Pizza/<br>Snacks                | 101-150 |
 | [[2025-01-17]] | Sunny                      | 82kg   | 9               | 9               | None              | 7hr38m/<br>1hr   | Subway:Egg&Mayo/<br>Pasta/Pizza<br>                 | 51-100  |
 | [[2025-01-18]] | Sunny                      | 81kg   | 7               | 8               | None              | 6hr20m/<br>2.6hr | Skip/KFC/Pasta<br>                                  | 101-150 |
-| [[2025-01-19]] | Sunny                      | 81kg   | 7               | 8               | None              | 7hr30m/<br>3.0hr | Skip/Burger/McDonald's                              | 101-150 |
+| [[2025-01-19]] | Sunny                      | 81kg   | 7               | 8               | None              | 7hr30m/<br>3.0hr | Skip/Burger/McDonald                                | 101-150 |
+| [[2025-01-20]] | Sunny                      | 81kg   | 6               | 6               | None              | 8hr21m/<br>1.8hr | Skip/Tamjai/McDonald                                | 51-150  |
+| [[2025-01-21]] | Cloudy                     | 81kg   | 6               | 6               | None              | 8hr33m/<br>1.1hr | Skip/Baked Fish/Snacks                              | 51-100  |
 
 """
 
