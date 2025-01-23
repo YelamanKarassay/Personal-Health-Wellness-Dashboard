@@ -21,7 +21,9 @@ markdown_data = """
 | [[2025-01-18]] | Sunny                      | 81kg   | 7               | 8               | None              | 6hr20m/<br>2.6hr | Skip/KFC/Pasta<br>                                  | 101-150 |
 | [[2025-01-19]] | Sunny                      | 81kg   | 7               | 8               | None              | 7hr30m/<br>3.0hr | Skip/Burger/McDonald                                | 101-150 |
 | [[2025-01-20]] | Sunny                      | 81kg   | 6               | 6               | None              | 8hr21m/<br>1.8hr | Skip/Tamjai/McDonald                                | 51-150  |
-| [[2025-01-21]] | Cloudy                     | 81kg   | 6               | 6               | None              | 8hr33m/<br>1.1hr | Skip/Baked Fish/Snacks                              | 51-100  |
+| [[2025-01-21]] | Cloudy                     | 81kg   | 6               | 6               | None              | 8hr33m/<br>1.1hr | Skip/Baked Fish/Kebab                               | 51-100  |
+| [[2025-01-22]] | Cloudy                     | 81kg   | 7               | 7               | None              | 6hr11m/<br>2.7hr | Snacks/Baked Fish/KFC                               | 51-100  |
+
 
 """
 
