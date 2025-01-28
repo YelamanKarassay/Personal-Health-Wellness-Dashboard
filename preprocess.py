@@ -4,13 +4,12 @@ import numpy as np
 
 # Markdown data as a multi-line string
 markdown_data = """
-
 | Date           | Weather                    | Weight | Feeling Morning | Feeling Evening | Physical Activity | Slept Hours       | Meals                                               | Air     |
 | -------------- | -------------------------- | ------ | --------------- | --------------- | ----------------- | ----------------- | --------------------------------------------------- | ------- |
 | YYYY-MM-DD     | Sunny, Rainy, Cloudy, etc. | XX kg  | 1-10            | 1-10            | Name/Duration     | sleep/<br>dept    | Breakfast/<br>Lunch/<br>Dinner                      | AQI     |
 | [[2025-01-08]] | Sunny                      | 82 kg  | 5               | 9               | None              | 7hr26m/<br>3.3hr  | Subway:Egg&Mayo/<br>Tamjai/<br>Snacks               | 101-150 |
 | [[2025-01-09]] | Sunny                      | 82 kg  | 6               | 8               | None              | 7hr6m/<br>3.7hr   | Subway:Egg&Mayo/<br>Japanese Curry/<br>McDonald<br> | 50-150  |
-| [[2025-01-10]] | Sunny                      | 82kg   | 7               | 3               | None              | 6hr19m/<br>4.9hr  | Subway:Egg&Mayo/<br>Baked Curry/Pasta<br>           | 51-100  |
+| [[2025-01-10]] | Sunny                      | 82kg   | 7               | 3               | None              | 6hr19m/<br>4.9hr  | Subway:Egg&Mayo/<br>Baked Fish/Pasta<br>            | 51-100  |
 | [[2025-01-11]] | Sunny                      | 82kg   | 8               | 9               | None              | 9hr12m/<br>3.1hr  | Skip/<br>KFC/<br>Indian food                        | 51-100  |
 | [[2025-01-12]] | Sunny                      | 82kg   | 10              | 9               | None              | 7hr/<br>3.1hr     | Skip/<br>KFC/<br>Boiled Noodle                      | 51-100  |
 | [[2025-01-13]] | Sunny                      | 82kg   | 6               | 7               | None              | 7hr/<br>3.1hr     | Skip/<br>Japanese Beef/<br>Subway:Roast Beef        | 51-150  |
@@ -21,12 +20,14 @@ markdown_data = """
 | [[2025-01-18]] | Sunny                      | 81kg   | 7               | 8               | None              | 6hr20m/<br>2.6hr  | Skip/KFC/Pasta<br>                                  | 101-150 |
 | [[2025-01-19]] | Sunny                      | 81kg   | 7               | 8               | None              | 7hr30m/<br>3.0hr  | Skip/Burger/McDonald                                | 101-150 |
 | [[2025-01-20]] | Sunny                      | 81kg   | 6               | 6               | None              | 8hr21m/<br>1.8hr  | Skip/Tamjai/McDonald                                | 51-150  |
-| [[2025-01-21]] | Cloudy                     | 81kg   | 6               | 6               | None              | 8hr33m/<br>1.1hr  | Skip/Baked Fish/Kebab                               | 51-100  |
+| [[2025-01-21]] | Cloudy                     | 81kg   | 6               | 6               | None              | 8hr33m/<br>1.1hr  | Skip/Baked Fish/<br>Kebab                           | 51-100  |
 | [[2025-01-22]] | Cloudy                     | 81kg   | 7               | 7               | None              | 6hr11m/<br>2.7hr  | Snacks/Baked Fish/KFC                               | 51-100  |
 | [[2025-01-23]] | Cloudy                     | 81kg   | 7               | 7               | None              | 7hr7m/<br>3.1hr   | Subway:Egg&Mayo/<br>Japanese Beef/Snacks            | 51-100  |
-| [[2025-01-24]] | Sunny Periods              | 81.5kg | 8               | 9               | None              | 6hr12m/<br>4.5hr  | Skip/<br>Backed Fish/<br>Kebab                      | 51-100  |
+| [[2025-01-24]] | Sunny Periods              | 81.5kg | 8               | 9               | None              | 6hr12m/<br>4.5hr  | Skip/<br>Baked Fish/<br>Kebab                       | 51-100  |
 | [[2025-01-25]] | Sunny Periods              | 81kg   | 9               | 8               | None              | 7hr41m/<br>4.2hr  | Skip/Korean Beef/Pizza                              | 51-100  |
 | [[2025-01-26]] | Cloudy                     | 81kg   | 7               | 6               | None              | 10hr54m/<br>0.8hr | Skip/Pasta/Skip                                     | 51-100  |
+| [[2025-01-27]] | Sunny                      | 81kg   | 8               | 8               | None              | 5hr39m/<br>3hr  | Subway:Egg&Mayo/Skip/Brianni<br>                    | 51-100  |
+| [[2025-01-28]] | Sunny                      | 81kg   | 7               | 9               | None              | 6hr1m/<br>4.6hr  | Skip/Beef Brisket Noodle Soup/Fried Chicken         | 51-100  |
 
 """
 
