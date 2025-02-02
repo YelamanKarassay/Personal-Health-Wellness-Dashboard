@@ -4,6 +4,7 @@ import numpy as np
 
 # Markdown data as a multi-line string
 markdown_data = """
+
 | Date           | Weather                    | Weight | Feeling Morning | Feeling Evening | Physical Activity | Slept Hours       | Meals                                               | Air     |
 | -------------- | -------------------------- | ------ | --------------- | --------------- | ----------------- | ----------------- | --------------------------------------------------- | ------- |
 | YYYY-MM-DD     | Sunny, Rainy, Cloudy, etc. | XX kg  | 1-10            | 1-10            | Name/Duration     | sleep/<br>dept    | Breakfast/<br>Lunch/<br>Dinner                      | AQI     |
@@ -26,8 +27,13 @@ markdown_data = """
 | [[2025-01-24]] | Sunny Periods              | 81.5kg | 8               | 9               | None              | 6hr12m/<br>4.5hr  | Skip/<br>Baked Fish/<br>Kebab                       | 51-100  |
 | [[2025-01-25]] | Sunny Periods              | 81kg   | 9               | 8               | None              | 7hr41m/<br>4.2hr  | Skip/Korean Beef/Pizza                              | 51-100  |
 | [[2025-01-26]] | Cloudy                     | 81kg   | 7               | 6               | None              | 10hr54m/<br>0.8hr | Skip/Pasta/Skip                                     | 51-100  |
-| [[2025-01-27]] | Sunny                      | 81kg   | 8               | 8               | None              | 5hr39m/<br>3hr  | Subway:Egg&Mayo/Skip/Brianni<br>                    | 51-100  |
-| [[2025-01-28]] | Sunny                      | 81kg   | 7               | 9               | None              | 6hr1m/<br>4.6hr  | Skip/Beef Brisket Noodle Soup/Fried Chicken         | 51-100  |
+| [[2025-01-27]] | Sunny                      | 81kg   | 8               | 8               | None              | 5hr39m/<br>3hr    | Subway:Egg&Mayo/Skip/Brianni<br>                    | 51-100  |
+| [[2025-01-28]] | Sunny                      | 81kg   | 7               | 9               | None              | 6hr01m/<br>4.6hr  | Skip/Beef Brisket Noodle Soup/Fried Chicken         | 51-100  |
+| [[2025-01-29]] | Sunny Periods              | 80kg   | 9               | 8               | None              | 8hr12m/<br>3.8hr  | Skip/<br>McDonald/<br>Pasta                         | 51-100  |
+| [[2025-01-30]] | Sunny Periods              | 80kg   | 8               | 8               | None              | 6hr55m/<br>4.4hr  | Yogurt/<br>McDonald/<br>Skip                        | 51-100  |
+| [[2025-01-31]] | Cloudy                     | 80kg   | 8               | 8               | None              | 10hr/<br>1.8hr    | Yogurt/<br>Pizza/<br>Tamjai                         | 51-100  |
+| [[2025-02-01]] | Cloudy                     | 81kg   | 8               | 8               | None              | 7hr30m/1.9hr      | Yogurt/<br>Fried Chicken/<br>Snacks                 | 51-100  |
+| [[2025-02-02]] | Cloudy                     | 81kg   | 9               |                 | None              | 10hr/0.0hr        | Yogurt//                                            | 51-100  |
 
 """
 
